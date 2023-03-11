@@ -1,0 +1,46 @@
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe.config
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.pdb
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.AssemblyReference.cache
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.SuggestedBindingRedirects.cache
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form1.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form2.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Properties.Resources.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.GenerateResource.cache
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CoreCompileInputs.cache
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CopyComplete
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.exe
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.pdb
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Interop.WMPLib.dll
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.ResolveComReference.cache
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form3.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form4.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form5.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form6.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form7.resources
+D:\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form8.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe.config
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.exe
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Çocuk Eğitim Uygulaması.pdb
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.AssemblyReference.cache
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.SuggestedBindingRedirects.cache
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Interop.WMPLib.dll
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.ResolveComReference.cache
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form1.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form2.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form3.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form4.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form5.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form6.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form7.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Form8.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk_Eğitim_Uygulaması.Properties.Resources.resources
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.GenerateResource.cache
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CoreCompileInputs.cache
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.csproj.CopyComplete
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.exe
+E:\DiğerDİSK\YükselChat\Çocuk Eğitim Uygulaması\Çocuk Eğitim Uygulaması\obj\Debug\Çocuk Eğitim Uygulaması.pdb
